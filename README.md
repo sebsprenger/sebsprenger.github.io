@@ -1,5 +1,5 @@
 ## Seb Sprenger
-[GitHub](https://github.sebsprenger.de) | [LinkedId](https://linkedin.sebsprenger.de) | [Twitter](https://twitter.sebsprenger.de) | [StackOverflow](https://so.sebsprenger.de) | [Blog](https://blog.sebsprenger.de)
+[GitHub](http://github.sebsprenger.de) | [LinkedId](http://linkedin.sebsprenger.de) | [Twitter](http://twitter.sebsprenger.de) | [StackOverflow](http://so.sebsprenger.de) | [Blog](http://blog.sebsprenger.de)
 
 ### Talks
 * 2021-09-22 **Team-oriented Architecture bei Breuninger - Facharchitektur mit mehreren Teams auf die Straße bringen** @ Java Forum Stuttgart
