@@ -1,4 +1,10 @@
-[GitHub](http://github.sebsprenger.de) | [LinkedId](http://linkedin.sebsprenger.de) | [Twitter](http://twitter.sebsprenger.de) | [StackOverflow](http://so.sebsprenger.de) | [Blog](http://blog.sebsprenger.de)
+## On The Internetz
+* * *
+* [GitHub](http://github.sebsprenger.de)
+* [LinkedId](http://linkedin.sebsprenger.de)
+* [Twitter](http://twitter.sebsprenger.de)
+* [StackOverflow](http://so.sebsprenger.de)
+* [Blog](http://blog.sebsprenger.de)
 
 ## Talks
 * * *
