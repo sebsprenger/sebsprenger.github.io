@@ -4,6 +4,7 @@
 
 ## talks
 * * *
+
 | 2021-09-22 | **Team-oriented Architecture bei Breuninger - Facharchitektur mit mehreren Teams auf die Straße bringen** | @ Java Forum Stuttgart ([Video](https://www.java-forum-stuttgart.de/vortraege/team-oriented-architecture-bei-breuninger/)) |
 | 2020-10-14 | **Spring Boot Magic - debunked!** | Meetup @ Breuninger (HacktÖberfest) |
 | 2019-09-25 | **Event-driven Architecture - Ein Überblick** | Meetup @ Breuninger |
