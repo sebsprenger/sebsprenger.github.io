@@ -18,7 +18,7 @@
 ## talks
 * * *
 
-### Team-oriented Architecture bei Breuninger - Facharchitektur mit mehreren Teams auf die Straße bringen**
+### Team-oriented Architecture bei Breuninger - Facharchitektur mit mehreren Teams auf die Straße bringen
 * 2021-09-22
 * Conference @ Java Forum Stuttgart
 * [Video](https://www.java-forum-stuttgart.de/vortraege/team-oriented-architecture-bei-breuninger/)
