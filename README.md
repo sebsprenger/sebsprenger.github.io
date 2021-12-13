@@ -6,6 +6,11 @@
 ## talks
 * * *
 
+### 2021-10-07: Team-oriented Architecture - Facharchitektur mit mehreren Teams auf die Straße bringen
+* Conference @ Software Architecture Alliance
+* [Link](https://www.software-architecture-alliance.de/software-architecture-alliance-2021/programm/programm#item-3114)
+* [Slides](https://speakerdeck.com/sebsprenger/team-oriented-architecture-facharchitektur-mit-mehreren-teams-auf-die-strasse-bringen)
+
 ### 2021-09-22: Team-oriented Architecture bei Breuninger - Facharchitektur mit mehreren Teams auf die Straße bringen
 * Conference @ Java Forum Stuttgart
 * [Video](https://www.java-forum-stuttgart.de/vortraege/team-oriented-architecture-bei-breuninger/)
