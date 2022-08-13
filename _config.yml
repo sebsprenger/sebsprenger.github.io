@@ -3,12 +3,13 @@ github.is_project_page: false
 theme: minima
 
 title: on the internetz
-site.author.name: Seb Sprenger
+site:
+  author.name: Seb Sprenger
 
-minima:
-  skin: dark
-  social_links:
-    twitter: sebsprenger
-    github: sebsprenger
-    stackoverflow: "10680861"
-    linkedin: seb-sprenger
+  minima:
+    skin: dark
+    social_links:
+      twitter: sebsprenger
+      github: sebsprenger
+      stackoverflow: "10680861"
+      linkedin: seb-sprenger
