@@ -1,3 +1,9 @@
 title: Seb Sprenger
 theme: minima
 github.is_project_page: false
+minima:
+  social_links:
+    twitter: https://twitter.sebsprenger.de/
+    github: https://github.sebsprenger.de/
+    stackoverflow: https://so.sebsprenger.de/
+    linkedin: https://linkedin.sebsprenger.de/
