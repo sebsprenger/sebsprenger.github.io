@@ -5,7 +5,6 @@ theme: minima
 title: on the internetz
 site:
   author.name: Seb Sprenger
-
   minima:
     skin: dark
     social_links:
