@@ -1,7 +1,12 @@
-title: Seb Sprenger
-theme: minima
 github.is_project_page: false
+
+theme: minima
+
+title: on the internetz
+site.author.name: Seb Sprenger
+
 minima:
+  skin: dark
   social_links:
     twitter: sebsprenger
     github: sebsprenger
