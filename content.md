@@ -1,7 +1,9 @@
-## blog
+# Content
+
+## Blog
 * [Blog](http://blog.sebsprenger.de)
 
-## talks
+## Talks
 
 | Date       | Title           | What | Where | Links |
 | ---------- |-------------| -----|
