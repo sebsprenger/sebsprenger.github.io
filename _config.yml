@@ -1,17 +1,7 @@
 github.is_project_page: false
-
+title: SEB SPRENGER
 theme: minima
-
-title: ON THE INTERNETZ
-author.name: Seb Sprenger
-description: "the index"
 minima:
   header_pages:
   - profiles.md
   - content.md
-  skin: dark
-  social_links:
-    twitter: sebsprenger
-    github: sebsprenger
-    stackoverflow: "10680861"
-    linkedin: seb-sprenger
