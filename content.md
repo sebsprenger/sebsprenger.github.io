@@ -1,5 +1,3 @@
-# Content
-
 ## Blog
 * [Blog](http://blog.sebsprenger.de)
 

@@ -1,6 +1,4 @@
-# Profiles
-
-## find me on the internetz
+## Find me on the internetz
 * [LinkedIn](http://linkedin.sebsprenger.de) 
 * [Twitter](http://twitter.sebsprenger.de)
 * [Speakerdeck](http://speakerdeck.sebsprenger.de)
