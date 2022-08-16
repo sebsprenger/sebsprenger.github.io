@@ -6,7 +6,7 @@
 * [StackOverflow](http://so.sebsprenger.de)
 
 ## Blog
-* [Blog](http://blog.sebsprenger.de)
+* [Medium](http://blog.sebsprenger.de)
 
 ## Talks
 <table>
