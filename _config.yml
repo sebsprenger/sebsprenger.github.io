@@ -3,5 +3,5 @@ title: SEB SPRENGER
 theme: minima
 minima:
   header_pages:
-  - profiles.md
+  - readme.md
   - content.md
